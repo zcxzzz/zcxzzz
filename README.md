@@ -10,4 +10,5 @@
  ⚡ Fun fact: nothing</br>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)</br>
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Page Views Count](https://badges.toozhao.com/badges/01EH2GMKAVSQT1TTCGVCF4963B/green.svg)](https://badges.toozhao.com/badges/01EH2GMKAVSQT1TTCGVCF4963B/green.svg "Get your own page views count badge on badges.toozhao.com")
 
